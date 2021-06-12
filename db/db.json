@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "image": "https://www.clipartkey.com/mpngs/m/57-577637_breakfast-art-cuisine-baby-food-rice-cereal-dairy.png",
+      "template": "before-school"
+    },
+    {
+      "id": 2,
+      "name": "Play",
+      "image": "https://www.pikpng.com/pngl/m/12-122368_kids-playing-clipart-png-kids-play-clipart-transparent.png",
+      "template": "before-school"
+    },
+    {
+      "id": 3,
+      "name": "Clothes",
+      "image": "https://png.pngtree.com/element_our/20200701/ourmid/pngtree-hand-drawn-children-clothes-elements-image_2277658.jpg",
+      "template": "before-school"
+    },
+    {
+      "id": 4,
+      "name": "Bus",
+      "image": "https://toppng.com/uploads/preview/schoolbus-clipart-school-bus-115630935208jwzinm98z.png",
+      "template": "before-school"
+    },
+    {
+      "id": 5,
+      "name": "Extras",
+      "image": "https://toppng.com/uploads/preview/red-umbrella-transparent-11547096716rikjocw6kz.png",
+      "template": "before-school"
+    }
+  ]
+}
