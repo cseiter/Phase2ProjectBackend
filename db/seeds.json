@@ -1,52 +1,34 @@
 {
-  "toys": [
+  "tasks": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Breakfast",
+      "image": "https://www.clipartkey.com/mpngs/m/57-577637_breakfast-art-cuisine-baby-food-rice-cereal-dairy.png",
+      "template": "before-school"
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Play",
+      "image": "https://www.pikpng.com/pngl/m/12-122368_kids-playing-clipart-png-kids-play-clipart-transparent.png",
+      "template": "before-school"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Clothes",
+      "image": "https://png.pngtree.com/element_our/20200701/ourmid/pngtree-hand-drawn-children-clothes-elements-image_2277658.jpg",
+      "template": "before-school"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Bus",
+      "image": "https://toppng.com/uploads/preview/schoolbus-clipart-school-bus-115630935208jwzinm98z.png",
+      "template": "before-school"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Extras",
+      "image": "https://toppng.com/uploads/preview/red-umbrella-transparent-11547096716rikjocw6kz.png",
+      "template": "before-school"
     }
   ]
 }
